@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CDS.Process.Queue.Function": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
