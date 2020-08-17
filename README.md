@@ -16,3 +16,16 @@ Copy contents from previous release into latest release folder
 ## Good article to read about what happens if a api call fails in an azure function
 
 https://medium.com/asos-techblog/reliably-processing-azure-service-bus-topics-with-azure-functions-46ebb7c71b5c
+
+
+
+
+
+## Post Message to Queue
+https://formulasubmissionapi.azurewebsites.net/api/FormulaSubmission/
+
+{"Message" : "Example Formula Submission request"}
+
+## Check Status of Message
+
+https://formulasubmissionapi.azurewebsites.net/api/FormulaSubmission/{formulaStatusId}
